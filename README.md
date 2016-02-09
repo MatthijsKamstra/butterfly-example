@@ -1,2 +1,5 @@
 # butterfly-example
-My butterfly example to test my fork of Butterfly
+
+Butterfly example-folder to test my fork of Butterfly
+
+Check out https://github.com/ashes999/butterfly for more info about Butterfly.
