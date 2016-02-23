@@ -1,0 +1,24 @@
+.parallax {
+    background-image: url(http://lorempixel.com/1700/1000/nature/);
+    background-position: center center;
+    background-size: cover;
+}
+
+.parallax-container {
+    height: 200px;
+}
+
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+main {
+    flex: 1 0 auto;
+}
+
+main .container {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
