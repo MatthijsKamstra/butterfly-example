@@ -1,7 +1,11 @@
 meta-id: 0e4dee27ff58e5aa48496f6b67e315f78cc9c494
 
+<<<<<<< HEAD:src/pages/c_test_foobar.md
 meta-title: C Herb
 meta-index: 0
+=======
+meta-order: 6
+>>>>>>> 945675b5decc8662c6f05d01b76c06b0e33d1708:src/pages/lesser.md
 
 ## Herb Fruitful given
 
